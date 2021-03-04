@@ -6,3 +6,4 @@
 
 //funções construtoras: objcet(), Array,(), String,(), Number(), Boolean(), Function().
 
+window.alert("Maior Mensagem para ser aberta")                          
